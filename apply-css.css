@@ -4,3 +4,23 @@ color: green;
 body { 
 background-color: rgb(240, 237, 236); 
 } 
+
+h1{
+    color: aquamarine;
+}
+
+p,h2{
+    font-style: italic;
+}
+
+*{
+    font font-family:arial ;
+}
+
+.highlight{
+    background-color: yellow;
+}
+
+#unique{
+    color: blueviolet;
+}
